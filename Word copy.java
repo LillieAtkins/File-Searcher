@@ -1,5 +1,3 @@
-//I have neither given nor received any unauthorized aid on this assignment. --Lillie Atkins
-
 import java.util.ArrayList;
 
 public class Word implements Comparable<Word>{
